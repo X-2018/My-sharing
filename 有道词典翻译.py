@@ -1,3 +1,5 @@
+# GITHUB:https://github.com/X-2018
+#website:www.test407.cn
 import urllib.request
 import urllib.parse
 import json             #语言编码和解码
